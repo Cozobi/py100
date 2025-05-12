@@ -1,0 +1,6 @@
+print("Hello " + input("What is your name?: "))
+print("==========================================")
+city = input("What city did you grow up?: ")
+pet = input("Give me a name of a pet you own or have owned: ")
+print("==========================================")
+print("The name of your band is: " + city + " " + pet)
